@@ -1,7 +1,7 @@
 function even(n) {
   if (n % 2 == 0)
     if (n > 0) {
-      console.log("number is possitive and even");
+      console.log("number is positive and even");
     } else {
       console.log("number is negative and even");
     }
